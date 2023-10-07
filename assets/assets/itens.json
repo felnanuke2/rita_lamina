@@ -1,0 +1,116 @@
+[
+    {
+        "diagnostico": "Adenoma Folicular",
+        "img": "1",
+        "organo": "Glándula Tiroides",
+        "alteraciones": "Proliferación neopásica benigna encapsulada con presencia de patrón normofolicular y microfolicular revestidas con células cúbicas sin atipia."
+    },
+    {
+        "diagnostico": "Carcinoma Papilar de Tiroides variante Folicular",
+        "organo": "Glándula Tiroides",
+        "img": "2",
+        "alteraciones": "Proliferación neoplásica maligna, con patrón folicular con núcleos en vidrio esmerillado “ojos de la huérfana Annie”, superposición nuclear, irregularidad de la membrana y coloide hipereosinofilico."
+    },
+    {
+        "diagnostico": "Metástasis de carcinoma papilar a ganglio linfático",
+        "organo": "Ganglio linfático",
+        "img": "3",
+        "alteraciones": "Parénquima ganglionar con histoarquitectura reemplazada por proliferación neoplásica maligna, de patrón papilar, con tallo fibrovascular y núcleos en vidrio esmerillado, superposición nuclear compatible con metástasis de carcinoma papilar."
+    },
+    {
+        "diagnostico": "Hemangioma capilar",
+        "organo": "Piel",
+        "img": "4",
+        "alteraciones": "Epidermis de aspecto conservado en dermis superficial y profunda. Se identifica proliferación neoplásica benigna de tipo vascular constituida por epitelio plano simple sin atipias, separadas por tabiques de tejido fibroso."
+    },
+    {
+        "diagnostico": "Hemangioma capilar lobular/ Granuloma piógeno",
+        "organo": "Piel",
+        "img": "5",
+        "alteraciones": "Epidermis con acantosis y papilomatosis. En dermis superficial y profunda se identifica proliferación vascular benigna de disposición lobulillar. Vasos tapizados por epitelio plano simple sin atipia. En el estroma se identifica proceso inflamatorio agudo y crónico sobreagregado."
+    },
+    {
+        "diagnostico": "Adenoma Pleomorfo",
+        "organo": "Glándula Parótida",
+        "img": "6",
+        "alteraciones": "Proliferacion neoplásica benigna mixta de patrón bifásico epitelial (ductal) y estroma condromixoide."
+    },
+    {
+        "diagnostico": "Enfermedad celíaca",
+        "organo": "Duodeno",
+        "img": "7",
+        "alteraciones": "Mucosa duodenal con atrofia vellositaria, disminución de la altura de los enterocitos, reducción del borde en cepillo y aumento de los linfocitos intraepiteliales, además de proceso inflamatório crónico en lámina propia compatible con enfermedad celíaca."
+    },
+    {
+        "diagnostico": "Gastritis crónica moderada",
+        "organo": "Estómago",
+        "img": "8",
+        "alteraciones": "Proceso inflamatório cronico en cuerpo y antro con vaso congestión en lamina propia."
+    },
+    {
+        "diagnostico": "Adenocarcinoma gastrico de tipo difuso",
+        "organo": "Estómago",
+        "img": "10",
+        "alteraciones": "Proliferación neoplásica maligna de células poco cohesivas con pleomorfismo marcado e hipercromasia. Se identifican células en anillo de sello."
+    },
+    {
+        "diagnostico": "Adenocarcinoma gástrico de tipo intestinal",
+        "organo": "Estómago",
+        "img": "20",
+        "alteraciones": "Proliferación neoplásica maligna con formación glandular. Las células presentan atípia moderada."
+    },
+    {
+        "diagnostico": "Metástasis a epiplón de adenocarcinoma gástrico difuso",
+        "organo": "Epiplón",
+        "img": "11",
+        "alteraciones": "Proliferación de un carcinoma gástrico difuso a epiplón, con presencia de células en anillo de sello abundante."
+    },
+    {
+        "diagnostico": "Linfoma de Malt",
+        "organo": "Estómago",
+        "img": "12",
+        "alteraciones": "Mucosa gástrica con histoarquitectura reemplazada por proceso linfoproliferativo constituido por linfocitos pequenos neoplásicos, centroblastos e inmunoblastos. En las glandulas gástricas se identifican H.Pylori"
+    },
+    {
+        "diagnostico": "Adenoma tubular con displasia de alto grado",
+        "organo": "Cólon",
+        "img": "13",
+        "alteraciones": "Mucosa colónica polipoide cubierta por epitelio displásico, compuesto por núcleos alargados hipercromáticos dispuestos en forma pseudoestratificada, con pérdida de polaridad basal y nucleos prominentes."
+    },
+    {
+        "diagnostico": "Pólipo hiperplásico",
+        "organo": "Cólon",
+        "img": "14",
+        "alteraciones": "Mucosa colónica benigna con aumento de tamaño y apariencia dentada, leve agrandamiento nuclear con numerosas células caliciformes."
+    },
+    {
+        "diagnostico": "Adenocarcinoma de colon multisecretante moderadamente diferenciado grado 2",
+        "organo": "Colon",
+        "img": "15",
+        "alteraciones": "Proliferación glandular maligna que se extiende a capa muscular mucosecretatnte."
+    },
+    {
+        "diagnostico": "Adenocarcinoma de cólon moderadamente diferenciado grado 2",
+        "organo": "Colon",
+        "img": "16",
+        "alteraciones": "Proliferación glandular maligna con atipia moderna, que se extiende a capa muscular."
+    },
+    {
+        "diagnostico": "Adenocarcinoma infiltrante ulcerado de colon moderadamente diferenciado grado 2",
+        "organo": "Colon",
+        "img": "17",
+        "alteraciones": "Proliferación neoplásica maligna constituida por patrón sólido en sectores y patrón glandular en otros, infiltrante hasta la capa muscular. Se identifican ulceraciones en epitelio superficial y embolos vasculares."
+    },
+    {
+        "diagnostico": "Adenocarcinoma de páncreas moderadamente diferenciado grado 2",
+        "organo": "Páncreas",
+        "img": "18",
+        "alteraciones": "Proliferación glandular maligna constituida por glándulas bien formadas con atipia citológica marcada y desmoplasia en páncreas exocrino. Adyacente al mismo se identifica páncreas endocrino de aspecto benigno."
+    },
+    {
+        "diagnostico": "Cirrosis Hepática",
+        "organo": "Hígado",
+        "img": "19",
+        "alteraciones": "Parenquima hepatico con distorción arquitectural, con presencia de nodulación difusa, separadas por bandas fibrosas con proceso inflamatório crónico sobreagregado."
+    }
+]
